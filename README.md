@@ -52,7 +52,7 @@ Exploratory data analysis of energy consumption patterns. Statistical analysis, 
 ## 💼 Professional Work
 
 ### [Case Studies](https://github.com/jan-milacek/case_studies)
-Detailed case studies from 20+ years of BI and data engineering consulting:
+Detailed case studies from my recent years of BI and data engineering consulting:
 
 - **Modern Data Platform for Integration Monitoring** (Airflow + dbt + PostgreSQL + Grafana)
 - **Resource Management & Billing Analytics** (Power BI + Snowflake)
