@@ -63,7 +63,7 @@ Detailed case studies from 20+ years of BI and data engineering consulting:
 ## 🌐 Connect
 
 - 💼 **Portfolio & Case Studies:** [jan.milacek-tech.com](https://jan.milacek-tech.com)
-- 📧 **Email:** jan@milacek-tech.com
+- 📧 **Email:** jan.milacek@gmail.com
 - 🔗 **LinkedIn:** [linkedin.com/in/milacek](https://linkedin.com/in/milacek)
 
 ---
